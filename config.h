@@ -4,7 +4,7 @@
 /* Define to 1 if you have the <curses.h> header file. */
 /* #undef HAVE_CURSES_H */
 
-#define SYSTEM_NKI_DIR "."
+#define SYSTEM_NKI_DIR "/usr/share/games/robotfindskitten"
 
 /* Define to 1 if you have the <dlfcn.h> header file. */
 #define HAVE_DLFCN_H 1
